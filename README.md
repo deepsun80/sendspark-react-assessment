@@ -1,5 +1,9 @@
 # Sendspark React Assessment
 
+[!["Sendspark React Assessment"](./README.gif)](https://app.sendspark.com/view/my9lr11oojbw9jhztadusgjpwswc01p0 "Sendspark React Assessment")
+
+The task requirements can be found at [Sendspark](https://app.sendspark.com/code/demo)
+
 ### Quickstart
 
 ```bash
@@ -28,8 +32,10 @@ You are not limited to these two files; simply keep all your code for this proje
 Go to https://app.sendspark.com/code/demo and follow the development instructions.
 
 When you're ready to submit:
-  - fork this repository privately and push up your work
-  - invite *@joshfreemanIO* to your repository
-  - create a free account at https://app.sendspark.com
-  - create a video introducing yourself and link your repository in the call-to-action button
-    - See [] for an example.
+
+- fork this repository privately and push up your work,
+- invite **@joshfreemanIO** to your repository,
+- create a free account at https://app.sendspark.com, and then
+- create a video introducing yourself and link your repository in the call-to-action button
+
+See the [video from above](https://app.sendspark.com/view/my9lr11oojbw9jhztadusgjpwswc01p0) as an example.

@@ -1,0 +1,3 @@
+#!/bin/sh
+
+webpack-dev-server --config ./webpack/webpack.client.js --env.NODE_ENV=development

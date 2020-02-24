@@ -1,0 +1,60 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "esModuleInterop": true,
+    "jsx": "react",
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "noImplicitAny": true,
+    "outDir": "./dist/",
+    "sourceMap": true,
+    "strictNullChecks": true,
+    "target": "es6",
+    "baseUrl": "./",
+    "experimentalDecorators": true,
+    "types": [
+      "sendspark"
+    ],
+    "paths": {
+      "@app*": [
+        "src/app*"
+      ],
+      "@api*": [
+        "src/api*"
+      ],
+      "@components*": [
+        "src/components*"
+      ],
+      "@constants*": [
+        "src/constants*"
+      ],
+      "@pages*": [
+        "src/pages*"
+      ],
+      "@scenes*": [
+        "src/scenes*"
+      ],
+      "@util*": [
+        "src/util*"
+      ],
+      "@state*": [
+        "src/state*"
+      ],
+      "@static*": [
+        "src/assets*"
+      ],
+      "@api.sendspark.com": [
+        "./../backend/src/types"
+      ]
+    }
+  },
+  "include": [
+    "*",
+    "**/*"
+  ],
+  "exclude": [
+    "node_modules",
+    "dist",
+    "build"
+  ]
+}

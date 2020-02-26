@@ -22,7 +22,7 @@
   width: 100%;
   margin: auto;
   height: 40px;
-  background: #4c32ce;
+  background: #6140ff;
   border-radius: 4px;
   border: none;
   color: white;
@@ -30,4 +30,8 @@
   font-weight: 500;
   font-size: 18px;
   line-height: 24px;
+}
+
+.btn:hover {
+  background: rgb(90, 60, 238);
 }
